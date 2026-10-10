@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clivehydrojetting.prosapp.site/sitemap.xml
